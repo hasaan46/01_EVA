@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\bin\Debug\04_HB_EKP.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\bin\Debug\04_HB_EKP.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\bin\Debug\04_HB_EKP.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\04_HB_EKP.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\_04_HB_EKP.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\_04_HB_EKP.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\04_HB_EKP.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\04_HB_EKP.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\04_HB_EKP.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\04_HB_EKP\obj\Debug\04_HB_EKP.pdb

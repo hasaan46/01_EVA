@@ -1,0 +1,10 @@
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\01_ZinsBerechnung_Hasan_Barak.csproj.AssemblyReference.cache
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\_01_ZinsBerechnung_Hasan_Barak.Form1.resources
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\_01_ZinsBerechnung_Hasan_Barak.Properties.Resources.resources
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\01_ZinsBerechnung_Hasan_Barak.csproj.GenerateResource.cache
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\01_ZinsBerechnung_Hasan_Barak.csproj.CoreCompileInputs.cache
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\bin\Debug\01_ZinsBerechnung_Hasan_Barak.exe.config
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\bin\Debug\01_ZinsBerechnung_Hasan_Barak.exe
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\bin\Debug\01_ZinsBerechnung_Hasan_Barak.pdb
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\01_ZinsBerechnung_Hasan_Barak.exe
+H:\Documents\Visual Studio 2019\Projekte\01_EVA\01_ZinsBerechnung_Hasan_Barak\obj\Debug\01_ZinsBerechnung_Hasan_Barak.pdb

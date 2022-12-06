@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\bin\Debug\07_Inch_HB.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\bin\Debug\07_Inch_HB.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\bin\Debug\07_Inch_HB.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\07_Inch_HB.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\_07_Inch_HB.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\_07_Inch_HB.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\07_Inch_HB.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\07_Inch_HB.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\07_Inch_HB.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\07_Inch_HB\obj\Debug\07_Inch_HB.pdb

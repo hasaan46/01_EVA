@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\bin\Debug\06_KreisBerechnung_HB.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\bin\Debug\06_KreisBerechnung_HB.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\bin\Debug\06_KreisBerechnung_HB.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\06_KreisBerechnung_HB.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\_06_KreisBerechnung_HB.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\_06_KreisBerechnung_HB.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\06_KreisBerechnung_HB.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\06_KreisBerechnung_HB.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\06_KreisBerechnung_HB.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\06_KreisBerechnung_HB\obj\Debug\06_KreisBerechnung_HB.pdb

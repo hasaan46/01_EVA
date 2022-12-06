@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\bin\Debug\05_Energieverbrauch_HB.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\bin\Debug\05_Energieverbrauch_HB.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\bin\Debug\05_Energieverbrauch_HB.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\_05_Energieverbrauch_HB.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\_05_Energieverbrauch_HB.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\05_Energieverbrauch_HB.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\05_Energieverbrauch_HB.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\05_Energieverbrauch_HB.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\05_Energieverbrauch_HB.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\01_EVA\05_Energieverbrauch_HB\obj\Debug\05_Energieverbrauch_HB.csproj.AssemblyReference.cache
